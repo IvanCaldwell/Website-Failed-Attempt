@@ -3292,7 +3292,6 @@ input, select, textarea {
 					}
 
 		/* Main */
-
 			#main {
 				background-size: 10em;
 				padding: 3.5em 0 2.5em 0;
@@ -3307,7 +3306,6 @@ input, select, textarea {
 			}
 
 		/* CTA */
-
 			#cta {
 				background-size: 10em, 10em, auto, cover;
 				padding: 3em 1.5em;
@@ -3327,7 +3325,6 @@ input, select, textarea {
 				}
 
 		/* Nav */
-
 			#navButton .toggle:before {
 				top: 8px;
 				left: 8px;
